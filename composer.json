@@ -1,0 +1,21 @@
+{
+    "name": "trylife/yii2-xss",
+    "description": "yii2 xss filter",
+    "type": "library",
+    "keywords": ["yii2","xss","trylife","yii2-xss"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "trylife",
+            "email": "trylife@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "trylife\\yii2Xss\\": ""
+        }
+    }
+}
